@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestDemoApp</string>
+    <string name="simple_image_view">Simple image view</string>
+    <string name="home">HOME</string>
+    <string name="video">VIDEOS</string>
+    <string name="images">IMAGES</string>
+    <string name="milestone">MILESTONE</string>
+    <string name="chain_smoker_new_album">chain smoker new album 2016</string>
+    <string name="ft_rihana">ft. rihana and user</string>
+    <string name="emptiness_ft">EMPTINESS FT. JUSTIN TIBLEKAR</string>
+    <string name="i_am_falling">I \'M FALLING LOVE WITH YOU</string>
+    <string name="baby_fit_justin">BABY FT. JISTIN BABER</string>
+    <string name="loream_lpsum">Loream lpsum is simply dummy text of the printing  and typesetting industry.</string>
+    <string name="time1">18 HOURS AGO</string>
+    <string name="time2">20 HOURS AGO</string>
+    <string name="time3">22 HOURS AGO</string>
+    <string name="time4">23 HOURS AGO</string>
+</resources>
